@@ -1,0 +1,11 @@
+D:\Prejects\Exel\Exel\Exel\bin\Debug\Exel.exe.config
+D:\Prejects\Exel\Exel\Exel\bin\Debug\Exel.exe
+D:\Prejects\Exel\Exel\Exel\bin\Debug\Exel.pdb
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.csprojAssemblyReference.cache
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.Form1.resources
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.Properties.Resources.resources
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.csproj.GenerateResource.cache
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.csproj.CoreCompileInputs.cache
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.exe
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.pdb
+D:\Prejects\Exel\Exel\Exel\obj\Debug\Exel.csproj.ResolveComReference.cache
